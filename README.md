@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-- I'm a senior IT student aspiring to be a Software Developer.<br>- I'm currently learning how to build meaningful tools and AI products.<br>- I'm interested in developing the back-end and front-end of desktop applications and websites.
+- I'm a senior IT student aspiring to be a Software Developer.<br> - I'm currently learning how to build meaningful tools and AI products.<br> - I'm interested in developing the back-end and front-end of desktop applications and websites.
 
 
 ## 🌐 Socials:
